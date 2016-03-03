@@ -1,8 +1,8 @@
 # Parser
 
-## Type: Laboratory work
-## Subject: Data Bases
-# Semester: 5
+### Type: Laboratory work
+### Subject: Data Bases
+### Semester: 5
 
 1. File search.py parses 20 objects (their names and image urls) from http://www.stejka.com site using lxml library and XPath technology into data.xml file
 
